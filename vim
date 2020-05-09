@@ -14,4 +14,4 @@ Git restore <path> == to restore the files to the computer in a specific path
 
 for insert I
 For exit: esc : w q
-Test tse
+Test testing
