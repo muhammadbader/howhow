@@ -2,6 +2,9 @@ Git init
 git add *
 git remote add origin https://github.com/muhbader/howhow.git
 
+git rm <filename>
+git rm -r <dir name>
+
 git commit (-m for message)
 Git push <url>
 git push -u origin master
@@ -14,4 +17,3 @@ Git restore <path> == to restore the files to the computer in a specific path
 
 for insert I
 For exit: esc : w q
-Test testing
