@@ -1,7 +1,11 @@
 Git init
 git add *
+git remote add origin https://github.com/muhbader/howhow.git
+
 git commit (-m for message)
 Git push <url>
+git push -u origin master
+
 Git checkout == for changing branches
 git checkout -b <bracnhname>
 
